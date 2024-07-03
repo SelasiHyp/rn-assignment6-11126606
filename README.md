@@ -16,8 +16,8 @@ Your shopping cart items are securely stored using AsyncStorage, a local storage
 
 ### Screenshots
 
-![Home Screen](screenshot/Shot1)
-![Cart Screen](screenshot/Shot2)
+![Home Screen](screenshot/Shot1.jpg)
+![Cart Screen](screenshot/Shot2.jpg)
 
 ### How It Works
 
