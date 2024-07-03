@@ -26,4 +26,4 @@ Your shopping cart items are securely stored using AsyncStorage, a local storage
 - **Viewing Cart**: Head to the Cart screen to see all your selected items and their total cost.
 - **Checking Out**: When ready, tap the checkout button on the Cart screen to complete your purchase.
 
-Enjoy shopping with our app, and thank you for using it!
+
